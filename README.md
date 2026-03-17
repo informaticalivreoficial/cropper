@@ -3,7 +3,7 @@
 [![Maintainer](https://img.shields.io/badge/maintainer-@renatomontanari-blue.svg?style=flat-square)](https://informaticalivre.com.br)
 [![Source Code](https://img.shields.io/badge/source-renatomontanari/cropper-blue.svg)](https://github.com/renatomontanari/cropper)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/renatomontanari/cropper.svg?style=flat-square)](https://packagist.org/packages/renatomontanari/cropper)
-[![Latest Version](https://img.shields.io/github/release/renatomontanari/cropper.svg?style=flat-square)](https://github.com/renatomontanari/cropper/releases)
+[![Latest Version](https://img.shields.io/github/release/renatomontanari/cropper.svg?style=flat-square)](https://github.com/informaticalivreoficial/cropper/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Total Downloads](https://img.shields.io/packagist/dt/renatomontanari/cropper.svg?style=flat-square)](https://packagist.org/packages/renatomontanari/cropper)
 
@@ -113,7 +113,7 @@ Se você descobrir algum problema relacionado à segurança, envie um e-mail par
 ## Créditos
 
 - [Robson V. Leite](https://github.com/robsonvleite) (Desenvolvedor original)
-- [Renato Montanari](https://informaticalivre.com.br) (Mantenedor atual)
+- [Renato Montanari](https://github.com/informaticalivreoficial) (Mantenedor atual)
 
 ---
 
