@@ -1,0 +1,55 @@
+{
+    "name": "renatomontanari/cropper",
+    "description": "Modern PHP image cropper with cache and WebP support",
+    "keywords": [
+        "cropper",
+        "image thumb",
+        "image crop",
+        "image cache",
+        "thumbnails jpg",
+        "thumbnails png",
+        "thumbnails webp",
+        "webp converter",
+        "php image",
+        "thumbnail generator"
+    ],
+    "homepage": "https://informaticalivre.com.br",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Renato Montanari",
+            "email": "suporte@informaticalivre.com.br",
+            "homepage": "https://informaticalivre.com.br",
+            "role": "Maintainer"
+        },
+        {
+            "name": "Robson V. Leite",
+            "homepage": "https://github.com/robsonvleite",
+            "role": "Original Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.3",
+        "ext-gd": "*",
+        "ext-mbstring": "*",
+        "ext-fileinfo": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Renato\\Cropper\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Renato\\Cropper\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit --testdox"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
